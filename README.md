@@ -20,7 +20,7 @@
 
 </div>
 
-## Install
+## Write it Write it
 
 Clone the repo and install dependencies:
 
